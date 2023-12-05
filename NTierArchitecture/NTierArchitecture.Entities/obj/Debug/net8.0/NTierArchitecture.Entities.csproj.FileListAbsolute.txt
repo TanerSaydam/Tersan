@@ -1,0 +1,12 @@
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.deps.json
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\bin\Debug\net8.0\NTierArchitecture.Entities.pdb
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.csproj.AssemblyReference.cache
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.AssemblyInfoInputs.cache
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.AssemblyInfo.cs
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.csproj.CoreCompileInputs.cache
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\refint\NTierArchitecture.Entities.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\NTierArchitecture.Entities.pdb
+C:\Tersan\NTierArchitecture\NTierArchitecture.Entities\obj\Debug\net8.0\ref\NTierArchitecture.Entities.dll

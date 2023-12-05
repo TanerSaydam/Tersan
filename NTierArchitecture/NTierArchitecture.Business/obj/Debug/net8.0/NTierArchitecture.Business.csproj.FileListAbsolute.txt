@@ -1,0 +1,17 @@
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.deps.json
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.pdb
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.AssemblyInfoInputs.cache
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.AssemblyInfo.cs
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.CoreCompileInputs.cache
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\refint\NTierArchitecture.Business.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.pdb
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\ref\NTierArchitecture.Business.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.DataAccess.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Entities.dll
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.DataAccess.pdb
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Entities.pdb
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.AssemblyReference.cache
+C:\Tersan\NTierArchitecture\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.CopyComplete

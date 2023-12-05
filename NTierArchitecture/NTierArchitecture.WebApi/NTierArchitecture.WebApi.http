@@ -1,0 +1,13 @@
+@NTierArchitecture.WebApi_HostAddress = http://localhost:5136
+
+GET {{NTierArchitecture.WebApi_HostAddress}}/api/Products/GetAll
+Accept: application/json
+
+###
+POST {{NTierArchitecture.WebApi_HostAddress}}/api/Products/Add
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "Salatalýk",
+  "price": 10
+}

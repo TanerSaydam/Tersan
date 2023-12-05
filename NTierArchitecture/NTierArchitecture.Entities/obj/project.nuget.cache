@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lulBMcdNX3wvjIu066UWtef6Mjzf13RRlhQ0KVriGfjjJUCpJBL00c/6gbmy6Gr4ipj+spLyUnr//RDCEmmSA==",
+  "success": true,
+  "projectFilePath": "C:\\Tersan\\NTierArchitecture\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taner\\.nuget\\packages\\ulid\\1.3.3\\ulid.1.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
