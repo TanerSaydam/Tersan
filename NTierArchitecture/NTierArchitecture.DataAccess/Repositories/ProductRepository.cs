@@ -10,6 +10,12 @@ public class ProductRepository(ApplicationDbContext context)
         await context.Set<Product>().AddAsync(product);        
     }
 
+    public async Task AddSaveAsync(Product product, CancellationToken cancellationToken = default)
+    {
+        await context.Set<Product>().AddAsync(product, cancellationToken);
+        await context.SaveChangesAsync(cancellationToken);
+    }
+
     public IQueryable<Product> GetAll()
     {
         return context.Set<Product>().AsQueryable();

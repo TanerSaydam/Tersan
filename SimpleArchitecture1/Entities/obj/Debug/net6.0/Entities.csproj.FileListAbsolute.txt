@@ -1,0 +1,13 @@
+C:\Tersan\SimpleArchitecture1\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Tersan\SimpleArchitecture1\Entities\bin\Debug\net6.0\Entities.dll
+C:\Tersan\SimpleArchitecture1\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\Entities.sourcelink.json
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\Entities.dll
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Tersan\SimpleArchitecture1\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -30,7 +30,6 @@ public sealed class ProductService : IProductService
         if(await _productRepository.IsNameExistsAsync(request.Name, cancellationToken))
         {
             throw new ArgumentException("Bu ürün adı daha önce kullanılmış");
-
         }
         
         Product product = new()

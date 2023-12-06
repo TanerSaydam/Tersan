@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EZgqQKdzSd5NedjKGqIzJVSyDFAXzpR3feHgKDQ5o6s=",
+  "Source": "DependencyInjectionWebApi",
+  "BasePath": "_content/DependencyInjectionWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

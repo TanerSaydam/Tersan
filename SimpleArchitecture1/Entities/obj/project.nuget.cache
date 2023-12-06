@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVw9FMqnj4K72bOYcqv0/M9X1o+0FP4Wi4ERkacTb/gLqxZDNqqb7tKlUC2FlX1SwwVbAal9mTDHuuf1JGL16A==",
+  "success": true,
+  "projectFilePath": "C:\\Tersan\\SimpleArchitecture1\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taner\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\taner\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\taner\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
