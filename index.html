@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Hello World!</h1>
+    <button onclick="apiRequest()">Api Request</button>
+//16:05 görüşelim
+    <script>
+        function apiRequest() {
+            fetch("https://localhost:7017/api/Products/Add", {
+                method: "post",
+                headers: {
+                    "Content-type": "application/json"
+                },
+                body: JSON.stringify({
+                    "name": "string",
+                    "price": 0,
+                    "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                })
+            })
+            .then(res => res.json())
+            .then(data => console.log(data))
+            .catch(err => console.log(err))
+        }
+    </script>
+</body>
+
+</html>

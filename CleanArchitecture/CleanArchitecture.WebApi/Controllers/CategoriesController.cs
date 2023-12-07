@@ -1,6 +1,8 @@
 ﻿using CleanArchitecture.Application.Features.Categories.AddCategory;
 using CleanArchitecture.Application.Features.Categories.GetAllCategory;
+using CleanArchitecture.Domain.Entities;
 using CleanArchitecture.WebApi.Abstractions;
+using ErrorOr;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,16 +16,13 @@ public class CategoriesController : ApiController
     [HttpPost]
     public async Task<IActionResult> Add(AddCategoryCommand request, CancellationToken cancellationToken)
     {
-        await _mediator.Send(request, cancellationToken);
-
-        return NoContent();
+        return await HandleCommandAsync<AddCategoryCommand,string>(request, cancellationToken);
     }
 
     [HttpPost]
     public async Task<IActionResult> GetAll(GetAllCategoryQuery request, CancellationToken cancellationToken)
     {
-       var response = await _mediator.Send(request, cancellationToken);
-
-        return Ok(response);
+        return await HandleCommandAsync<GetAllCategoryQuery, List<Category>>(request, cancellationToken);
     }
 }
+

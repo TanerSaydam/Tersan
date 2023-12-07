@@ -1,17 +1,18 @@
 ﻿using CleanArchitecture.Domain.Entities;
 using CleanArchitecture.Domain.Repositories;
+using ErrorOr;
 using MediatR;
 
 namespace CleanArchitecture.Application.Features.Categories.AddCategory;
 
-public sealed class AddCategoryCommandHandler(ICategoryRepository categoryRepository) : IRequestHandler<AddCategoryCommand>
+public sealed class AddCategoryCommandHandler(ICategoryRepository categoryRepository) : IRequestHandler<AddCategoryCommand, ErrorOr<string>>
 {
-    public async Task Handle(AddCategoryCommand request, CancellationToken cancellationToken)
+    public async Task<ErrorOr<string>> Handle(AddCategoryCommand request, CancellationToken cancellationToken)
     {
         bool isNameExists = await categoryRepository.AnyAsync(p => p.Name == request.Name, cancellationToken);
         if (isNameExists)
         {
-            throw new ArgumentException("Bu kategori adı daha önce kullanılmış");
+            return Error.Conflict(code: "CategoryNameExists", description: "Bu kategori adı daha önce kullanılmış");
         }
 
         Category category = new()
@@ -21,5 +22,7 @@ public sealed class AddCategoryCommandHandler(ICategoryRepository categoryReposi
         };
 
         await categoryRepository.AddSaveAsync(category, cancellationToken);
+
+        return "Kayıt işlemi başarıyla tamamlandı";
     }
 }

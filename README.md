@@ -1,4 +1,10 @@
 # Tersan Firması Advanced C# Eğitimi
+## 07.12.2023
+- Fluent Validation ile Validation
+- MediatR Behavior ile Validation'ı Otomatikleştirme
+- Exception Middleware
+- Result Pattern
+
 ## 06.12.2023
 - N Katmanlı Mimarinin Artıları Eksileri
 - Dependency Injection nedir? Artıları Eksikleri ve Kullanım Örnekleri

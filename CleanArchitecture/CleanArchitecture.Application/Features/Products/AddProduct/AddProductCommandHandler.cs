@@ -8,15 +8,10 @@ public sealed class AddProductCommandHandler(IProductRepository productRepositor
 {
     public async Task<Guid> Handle(AddProductCommand request, CancellationToken cancellationToken)
     {
-        if (string.IsNullOrEmpty(request.Name))
-        {
-            throw new ArgumentNullException(nameof(request.Name));
-        }
-
         bool isNameExists = await productRepository.AnyAsync(p => p.Name == request.Name, cancellationToken);
         if (isNameExists)
         {
-            throw new ArgumentException("Bu ürün adı daha önce kullanılmış");
+            throw new ProductNameExistsException();
         }
 
         Product product = new()
