@@ -1,0 +1,26 @@
+@ElasticSearchWebApi_HostAddress = http://localhost:5117
+
+GET {{ElasticSearchWebApi_HostAddress}}/api/Users/SeedData
+Accept: application/json
+
+###
+
+GET {{ElasticSearchWebApi_HostAddress}}/api/Users/GetAllWithEfCore
+Accept: application/json
+
+###
+
+GET {{ElasticSearchWebApi_HostAddress}}/api/Users/GetWithEfCore/Communications
+Accept: application/json
+
+###
+
+GET {{ElasticSearchWebApi_HostAddress}}/api/Users/GetAllWithElasticSearch/Communications
+Accept: application/json
+
+###
+
+GET {{ElasticSearchWebApi_HostAddress}}/api/Users/SyncToElasticSearch
+Accept: application/json
+
+###

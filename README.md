@@ -1,4 +1,10 @@
 # Tersan Firması Advanced C# Eğitimi
+## 08.12.2023
+- ElasticSearch Nedir, Nasıl Kurulur
+- .NET ve ElasticSearch ile Performans Farkı Karşılaştırması
+- DDD - Tactical Pattern
+- DDD - Entity, Value Object, Repository Pattern
+
 ## 07.12.2023
 - Fluent Validation ile Validation
 - MediatR Behavior ile Validation'ı Otomatikleştirme

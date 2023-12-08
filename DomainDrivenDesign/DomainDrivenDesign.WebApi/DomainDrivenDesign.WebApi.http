@@ -1,0 +1,6 @@
+@DomainDrivenDesign.WebApi_HostAddress = http://localhost:5062
+
+GET {{DomainDrivenDesign.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

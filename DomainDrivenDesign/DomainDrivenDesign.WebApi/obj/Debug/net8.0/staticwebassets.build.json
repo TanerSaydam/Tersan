@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8q0Wk4ikbiNOQ57oprOC/ZrLBXUiFF9SqBX0pgoYttU=",
+  "Source": "DomainDrivenDesign.WebApi",
+  "BasePath": "_content/DomainDrivenDesign.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\bin\Debug\net8.0\DomainDrivenDesign.Domain.deps.json
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\bin\Debug\net8.0\DomainDrivenDesign.Domain.dll
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\bin\Debug\net8.0\DomainDrivenDesign.Domain.pdb
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.AssemblyInfoInputs.cache
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.AssemblyInfo.cs
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.csproj.CoreCompileInputs.cache
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.sourcelink.json
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.dll
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\refint\DomainDrivenDesign.Domain.dll
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\DomainDrivenDesign.Domain.pdb
+C:\Tersan\DomainDrivenDesign\DomainDrivenDesign.Domain\obj\Debug\net8.0\ref\DomainDrivenDesign.Domain.dll
