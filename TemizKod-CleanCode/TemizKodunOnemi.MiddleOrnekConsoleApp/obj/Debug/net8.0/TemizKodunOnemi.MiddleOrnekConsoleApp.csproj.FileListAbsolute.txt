@@ -1,0 +1,15 @@
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.exe
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.deps.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.runtimeconfig.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.AssemblyInfoInputs.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.AssemblyInfo.cs
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.csproj.CoreCompileInputs.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.sourcelink.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\refint\TemizKodunOnemi.MiddleOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnekConsoleApp.genruntimeconfig.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\ref\TemizKodunOnemi.MiddleOrnekConsoleApp.dll

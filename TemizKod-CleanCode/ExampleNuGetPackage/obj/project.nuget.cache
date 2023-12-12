@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObfukdJfU5+/emODPb8YnUGWToFPXf6zytH+XQnYwKUKmgtKHhZ7s+iUVldhu5H3wBd5lhSNyQMZsdYldsHhqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Tersan\\TemizKod-CleanCode\\ExampleNuGetPackage\\ExampleNuGetPackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taner\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

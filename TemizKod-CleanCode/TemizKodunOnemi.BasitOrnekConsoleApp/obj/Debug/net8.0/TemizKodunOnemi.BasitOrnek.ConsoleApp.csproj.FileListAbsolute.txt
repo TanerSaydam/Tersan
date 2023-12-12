@@ -1,0 +1,15 @@
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.exe
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.deps.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.runtimeconfig.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.AssemblyInfoInputs.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.AssemblyInfo.cs
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.sourcelink.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\refint\TemizKodunOnemi.BasitOrnek.ConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnek.ConsoleApp.genruntimeconfig.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\ref\TemizKodunOnemi.BasitOrnek.ConsoleApp.dll

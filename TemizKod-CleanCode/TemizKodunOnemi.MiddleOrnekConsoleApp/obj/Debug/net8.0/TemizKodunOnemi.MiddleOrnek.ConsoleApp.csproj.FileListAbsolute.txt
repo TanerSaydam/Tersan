@@ -1,0 +1,15 @@
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.exe
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.deps.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.runtimeconfig.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.AssemblyInfoInputs.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.AssemblyInfo.cs
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.sourcelink.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\refint\TemizKodunOnemi.MiddleOrnek.ConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.MiddleOrnek.ConsoleApp.genruntimeconfig.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.MiddleOrnekConsoleApp\obj\Debug\net8.0\ref\TemizKodunOnemi.MiddleOrnek.ConsoleApp.dll

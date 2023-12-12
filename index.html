@@ -9,24 +9,31 @@
 
 <body>
     <h1>Hello World!</h1>
+    <input>
     <button onclick="apiRequest()">Api Request</button>
-//16:05 görüşelim
     <script>
         function apiRequest() {
-            fetch("https://localhost:7017/api/Products/Add", {
-                method: "post",
+            const inputEl = document.querySelector("input");
+            const data = {
+                name: inputEl.value
+            }
+
+            if(inputEl.value === ""){
+                alert("Name cannot be empty or null");
+                return;
+            }
+
+            fetch("https://localhost:7141/api/Items/Create", {
+                method: "POST",
                 headers: {
-                    "Content-type": "application/json"
+                    "Content-Type": "application/json",
+                    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
                 },
-                body: JSON.stringify({
-                    "name": "string",
-                    "price": 0,
-                    "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
-                })
+                body: JSON.stringify(data),
             })
             .then(res => res.json())
-            .then(data => console.log(data))
-            .catch(err => console.log(err))
+            .then(data => console.log("Api isteği başarıyla tamamlandı!"))
+            .catch(err => console.error(err))
         }
     </script>
 </body>

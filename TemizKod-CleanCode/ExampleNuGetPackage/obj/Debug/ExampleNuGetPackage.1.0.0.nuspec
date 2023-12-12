@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExampleNuGetPackage</id>
+    <version>1.0.0</version>
+    <authors>ExampleNuGetPackage</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="8f0282f533800d5021e9511634843f1822946caa" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\bin\Debug\net8.0\ExampleNuGetPackage.dll" target="lib\net8.0\ExampleNuGetPackage.dll" />
+  </files>
+</package>

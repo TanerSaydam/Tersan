@@ -1,0 +1,16 @@
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.exe
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.deps.json
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.runtimeconfig.json
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.AssemblyInfoInputs.cache
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.AssemblyInfo.cs
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.csproj.CoreCompileInputs.cache
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.sourcelink.json
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\refint\KodKalitesininOnemi.BasitOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.genruntimeconfig.cache
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\ref\KodKalitesininOnemi.BasitOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\KodKalitesininOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\KodKalitesininOnemi.BasitOrnekConsoleApp.csproj.AssemblyReference.cache

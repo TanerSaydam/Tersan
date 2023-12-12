@@ -1,0 +1,15 @@
+@TemizKodunOnemi.AdvancedOrnek.WebApi_HostAddress = http://localhost:5287
+
+GET {{TemizKodunOnemi.AdvancedOrnek.WebApi_HostAddress}}/api/Items/GetAll
+Accept: application/json
+
+###
+
+POST {{TemizKodunOnemi.AdvancedOrnek.WebApi_HostAddress}}/api/Items/Create
+Accept: application/json
+Content-Type: application/json
+{
+  "name": "asdasd"
+}
+
+###

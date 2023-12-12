@@ -1,0 +1,15 @@
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.exe
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.deps.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.runtimeconfig.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\bin\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.AssemblyInfoInputs.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.AssemblyInfo.cs
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.csproj.CoreCompileInputs.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.sourcelink.json
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\refint\TemizKodunOnemi.BasitOrnekConsoleApp.dll
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.pdb
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\TemizKodunOnemi.BasitOrnekConsoleApp.genruntimeconfig.cache
+C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.BasitOrnekConsoleApp\obj\Debug\net8.0\ref\TemizKodunOnemi.BasitOrnekConsoleApp.dll

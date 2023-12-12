@@ -1,0 +1,13 @@
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\bin\Debug\net8.0\ExampleNuGetPackage.deps.json
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\bin\Debug\net8.0\ExampleNuGetPackage.dll
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\bin\Debug\net8.0\ExampleNuGetPackage.pdb
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ExampleNuGetPackage.csproj.AssemblyReference.cache
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ExampleNuGetPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ExampleNuGetPackage.AssemblyInfoInputs.cache
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ExampleNuGetPackage.AssemblyInfo.cs
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ExampleNuGetPackage.csproj.CoreCompileInputs.cache
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ExampleNuGetPackage.sourcelink.json
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ExampleNuGetPackage.dll
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\refint\ExampleNuGetPackage.dll
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ExampleNuGetPackage.pdb
+C:\Tersan\TemizKod-CleanCode\ExampleNuGetPackage\obj\Debug\net8.0\ref\ExampleNuGetPackage.dll

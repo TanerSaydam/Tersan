@@ -1,4 +1,12 @@
 # Tersan Firması Advanced C# Eğitimi
+## 09.12.2023
+- Temiz kodun önemi ve avantajları
+- Kod kalitesini değerlendirme kriterleri
+- Kod okunabilirliği ve sürdürülebilirlik
+- Köşeli parantez ve boşluk kullanımı
+- İsimlendirme standartları ve anlamlı değişken isimleri
+- Fonksiyon boyutu ve karmaşıklık analiz
+
 ## 08.12.2023
 - ElasticSearch Nedir, Nasıl Kurulur
 - .NET ve ElasticSearch ile Performans Farkı Karşılaştırması
