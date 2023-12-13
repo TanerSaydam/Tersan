@@ -1,21 +1,18 @@
-﻿using FluentValidation;
-using FluentValidation.Results;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using TemizKodunOnemi.AdvancedOrnek.WebApi.Context;
 using TemizKodunOnemi.AdvancedOrnek.WebApi.DTOs;
 using TemizKodunOnemi.AdvancedOrnek.WebApi.Exceptions;
 using TemizKodunOnemi.AdvancedOrnek.WebApi.Models;
-using TemizKodunOnemi.AdvancedOrnek.WebApi.Validators;
 
 namespace TemizKodunOnemi.AdvancedOrnek.WebApi.Controllers;
 [Route("api/[controller]/[action]")]
 [ApiController]
 public class ItemsController : ControllerBase
 {
-    private ApplicationDbContext _context;
+    private readonly ApplicationDbContext _context;
     public ItemsController(ApplicationDbContext context)
     {
-        _context = context ?? throw new ArgumentNullException();
+        _context = context;
     }
 
     [HttpGet]

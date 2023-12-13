@@ -1,4 +1,9 @@
 # Tersan Firması Advanced C# Eğitimi
+## 10.12.2023
+- Unit Test
+- Scrutor Kütüphanesi
+- DRY, SOLID, KISS ve YAGNI Prensibi
+
 ## 09.12.2023
 - Temiz kodun önemi ve avantajları
 - Kod kalitesini değerlendirme kriterleri

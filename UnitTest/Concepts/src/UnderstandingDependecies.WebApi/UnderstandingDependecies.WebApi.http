@@ -1,0 +1,6 @@
+@UnderstandingDependecies.WebApi_HostAddress = http://localhost:5123
+
+GET {{UnderstandingDependecies.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

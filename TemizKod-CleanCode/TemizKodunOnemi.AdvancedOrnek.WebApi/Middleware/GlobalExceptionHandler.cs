@@ -18,7 +18,7 @@ public sealed class GlobalExceptionHandler : IExceptionHandler
         }
 
         httpContext.Response.ContentType = "application/json";
-        await httpContext.Response.WriteAsync(new ErrorResult(exception.Message).ToString());
+        await httpContext.Response.WriteAsync(new ErrorResult(exception.Message).ToString(), cancellationToken);
 
         return true;
     }

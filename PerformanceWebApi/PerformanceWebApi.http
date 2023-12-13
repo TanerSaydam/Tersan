@@ -1,0 +1,11 @@
+@PerformanceWebApi_HostAddress = http://localhost:5131
+
+GET {{PerformanceWebApi_HostAddress}}/api/Values/Get1
+Accept: application/json
+
+###
+
+GET {{PerformanceWebApi_HostAddress}}/api/Values/Get2
+Accept: application/json
+
+###

@@ -45,4 +45,11 @@ List<User> users = context.Users.ToList().Where(user => )
 ```
 
 ## Fonsiyon Boyutu ve Karmaþýklýðý
-- 20-30 arasýnda olmalý
+Fonksiyonun boyutu ve karmaþýklýðý analizi, yazýlým geliþtirmede fonskyionlarýn etkinliðini ve bakýmýný deðerlendirmek için kullanýlýr. Bu iki konsept kodun okunabilirliði, sürdürülebilirliði ve test edilebilirliði üzerinde büyük etkiye sahiptir.
+
+Fonksiyon Boyutu (Method)
+Fonksiyon boyutu içerdiði satýr sayýsý ile ölçülür, genel kural 20-30 satýrý geçmemesidir. Ancak baðlam ve iþlevsellik karmaþýklýðýna baðlý olarak bu durum deðiþebilir
+
+- SonarQube: Kapsamlý bir kod kalitesi yönetim platformu
+- Code Climate: Otomatik kod incelemesi için karmaþýklýk analizi sunuyor
+- NDepend: C# için static kod analizi yapýyor

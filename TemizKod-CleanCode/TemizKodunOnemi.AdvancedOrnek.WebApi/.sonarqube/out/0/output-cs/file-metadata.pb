@@ -1,0 +1,15 @@
+j
+aC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\Context\ApplicationDbContext.csutf-8i
+`C:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\Controllers\ItemsController.csutf-8`
+WC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\DTOs\CreateItemDto.csutf-8^
+UC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\DTOs\ItemListDto.csutf-8v
+mC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\Exceptions\ItemNameAlreadyExistException.csutf-8l
+cC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\Middleware\ExceptionMiddleware.csutf-8o
+fC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\Middleware\GlobalExceptionHandler.csutf-8Y
+PC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\Models\Item.csutf-8U
+LC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\Program.csutf-8o
+fC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\Validators\CreateItemDtoValidator.csutf-8ï
+âC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\obj\Debug\net8.0\TemizKodunOnemi.AdvancedOrnek.WebApi.GlobalUsings.g.csutf-8ç
+ÅC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8ì
+áC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\obj\Debug\net8.0\TemizKodunOnemi.AdvancedOrnek.WebApi.AssemblyInfo.csutf-8¶
+öC:\Tersan\TemizKod-CleanCode\TemizKodunOnemi.AdvancedOrnek.WebApi\obj\Debug\net8.0\TemizKodunOnemi.AdvancedOrnek.WebApi.MvcApplicationPartsAssemblyInfo.csutf-8

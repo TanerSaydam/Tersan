@@ -1,0 +1,12 @@
+C:\Tersan\UnitTest\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+C:\Tersan\UnitTest\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+C:\Tersan\UnitTest\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.sourcelink.json
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+C:\Tersan\UnitTest\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll

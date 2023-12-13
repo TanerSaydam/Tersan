@@ -1,0 +1,12 @@
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\bin\Debug\net8.0\TestingTecniques.deps.json
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\bin\Debug\net8.0\TestingTecniques.dll
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\bin\Debug\net8.0\TestingTecniques.pdb
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\TestingTecniques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\TestingTecniques.AssemblyInfoInputs.cache
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\TestingTecniques.AssemblyInfo.cs
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\TestingTecniques.csproj.CoreCompileInputs.cache
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\TestingTecniques.sourcelink.json
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\TestingTecniques.dll
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\refint\TestingTecniques.dll
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\TestingTecniques.pdb
+C:\Tersan\UnitTest\Techniques\src\TestingTecniques\obj\Debug\net8.0\ref\TestingTecniques.dll

@@ -17,7 +17,7 @@ public sealed class ExceptionMiddleware : IMiddleware
 		{
 			context.Response.StatusCode = 500;
 			context.Response.ContentType = "application/json";
-			context.Response.WriteAsync(new ErrorResult(ex.Message).ToString());
+			await context.Response.WriteAsync(new ErrorResult(ex.Message).ToString(), CancellationToken.None);
 		}
     }
 }

@@ -19,8 +19,6 @@ builder.Services.AddCors(opt =>
     });
 });
 
-//builder.Services.AddTransient<ExceptionMiddleware>();
-
 builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 builder.Services.AddProblemDetails();
 
@@ -40,8 +38,6 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseCors();
-
-//app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseExceptionHandler();
 
