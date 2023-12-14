@@ -1,6 +1,7 @@
 ﻿using CleanArchitecture.Application.Behaviors;
+using CleanArchitecture.Domain.Entities;
 using FluentValidation;
-using MediatR;
+using FluentValidation.AspNetCore;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
@@ -11,12 +12,13 @@ public static class DependencyInjection
     {
         services.AddMediatR(configuration =>
         {
-            configuration.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly());
+            configuration.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly(), typeof(Product).Assembly);
             configuration.AddOpenBehavior(typeof(ValidationBehavior<,>));
-        });
+        });        
 
+        services.AddFluentValidationAutoValidation();
         services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
-
+        services.AddAutoMapper(Assembly.GetExecutingAssembly());
         return services;
     }
 }

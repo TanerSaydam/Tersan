@@ -2,7 +2,7 @@
 
 namespace CleanArchitecture.Domain.Repositories;
 
-public interface IOrderRepository: IRepository<Order>
+public interface IOrderRepository : IRepository<Order>
 {
 
 }

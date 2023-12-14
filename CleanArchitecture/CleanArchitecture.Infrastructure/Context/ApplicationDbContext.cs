@@ -1,25 +1,20 @@
-﻿using CleanArchitecture.Domain.Entities;
-using CleanArchitecture.Domain.Repositories;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using CleanArchitecture.Domain.Abstractions;
+using CleanArchitecture.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchitecture.Infrastructure.Context;
-public sealed class ApplicationDbContext : IdentityDbContext<AppUser, IdentityRole<Guid>, Guid>, IUnitOfWork
+public sealed class ApplicationDbContext : DbContext, IUnitOfWork
 {
     public ApplicationDbContext(DbContextOptions options) : base(options)
     {
     }
 
-    protected override void OnModelCreating(ModelBuilder builder)
-    {
-        builder.Ignore<IdentityUserLogin<Guid>>();
-        builder.Ignore<IdentityUserClaim<Guid>>();
-        builder.Ignore<IdentityUserRole<Guid>>();
-        builder.Ignore<IdentityUserToken<Guid>>();
-        builder.Ignore<IdentityRoleClaim<Guid>>();
-        builder.Ignore<IdentityRole<Guid>>();
+    public DbSet<Product> Products { get; set; }
+    public DbSet<Order> Orders { get; set; }
 
-        builder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Product>().Property(p => p.Price).HasColumnType("money");
+        modelBuilder.Entity<Order>().Property(p => p.Price).HasColumnType("money");
     }
 }

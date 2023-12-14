@@ -1,28 +1,41 @@
-﻿using CleanArchitecture.Application.Features.Products.AddProduct;
+﻿using CleanArchitecture.Application.Features.Products.CreateProduct;
 using CleanArchitecture.Application.Features.Products.GetAllProduct;
-using CleanArchitecture.WebApi.Abstractions;
+using CleanArchitecture.Application.Features.Products.UpdateProduct;
+using CleanArchitecture.Infrastructure.Authorization;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArchitecture.WebApi.Controllers;
-
-public class ProductsController : ApiController
+[Route("api/[controller]/[action]")]
+[ApiController]
+[Authorize(AuthenticationSchemes = "Bearer")]
+public sealed class ProductsController(IMediator mediator) : ControllerBase
 {
-    public ProductsController(IMediator mediator) : base(mediator)
+    [HttpPost]
+    public async Task<IActionResult> Create(CreateProductCommand request, CancellationToken cancellationToken)
     {
+        await mediator.Send(request, cancellationToken);
+
+        return NoContent();
     }
 
-    [HttpPost]
-    public async Task<IActionResult> Add(AddProductCommand request, CancellationToken cancellationToken)
-    {
-        Guid id = await _mediator.Send(request, cancellationToken);
-        return Ok(new { Id = id });
-    }
 
     [HttpPost]
-    public async Task<IActionResult> GetAll(GetAllProductQuery request, CancellationToken cancellationToken)
+    public async Task<IActionResult> Update(UpdateProductCommand request, CancellationToken cancellationToken)
     {
-        var response = await _mediator.Send(request, cancellationToken);
+        await mediator.Send(request, cancellationToken);
+
+        return NoContent();
+    }
+
+    [HttpGet]
+    [RoleFilter("Products.GetAll")]
+    public async Task<IActionResult> GetAll(CancellationToken cancellationToken)
+    {
+        GetAllProductQuery request = new();
+        var response = await mediator.Send(request, cancellationToken);
+
         return Ok(response);
     }
 }

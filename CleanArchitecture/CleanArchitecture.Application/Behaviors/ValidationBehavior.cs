@@ -3,8 +3,8 @@ using FluentValidation.Results;
 using MediatR;
 
 namespace CleanArchitecture.Application.Behaviors;
-public class ValidationBehavior<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
-    where TRequest : class, IRequest<TResponse>
+public sealed class ValidationBehavior<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
+        where TRequest : class, IRequest<TResponse>
 {
     private readonly IEnumerable<IValidator<TRequest>> _validators;
 
@@ -28,9 +28,9 @@ public class ValidationBehavior<TRequest, TResponse> : IPipelineBehavior<TReques
             .Where(s => s != null)
             .GroupBy(
             s => s.PropertyName,
-            s => s.ErrorMessage, (propertName, errorMessage) => new
+            s => s.ErrorMessage, (propertyName, errorMessage) => new
             {
-                Key = propertName,
+                Key = propertyName,
                 Values = errorMessage.Distinct().ToArray()
             })
             .ToDictionary(s => s.Key, s => s.Values[0]);
@@ -46,5 +46,7 @@ public class ValidationBehavior<TRequest, TResponse> : IPipelineBehavior<TReques
         }
 
         return await next();
+
+
     }
 }

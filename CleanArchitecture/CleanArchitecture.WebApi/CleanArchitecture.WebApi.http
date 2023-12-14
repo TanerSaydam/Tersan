@@ -1,6 +1,59 @@
-@CleanArchitecture.WebApi_HostAddress = http://localhost:5017
+@CleanArchitecture.WebApi_HostAddress = http://localhost:5246
 
-GET {{CleanArchitecture.WebApi_HostAddress}}/weatherforecast/
+POST {{CleanArchitecture.WebApi_HostAddress}}/api/Products/Create
 Accept: application/json
+Content-Type: application/json
+{
+  "name": "Salatalýk",
+  "price": 10
+}
+
 
 ###
+
+POST {{CleanArchitecture.WebApi_HostAddress}}/api/Products/Update
+Accept: application/json
+Content-Type: application/json
+{
+  "id": "aa2cf446-eae0-4eaa-bd7c-bb49f8c25541",
+  "name": "Domates",
+  "price": 15
+}
+
+
+###
+
+Get {{CleanArchitecture.WebApi_HostAddress}}/api/Products/GetAll
+Accept: application/json
+Authorization: "Bearer "
+
+###
+
+POST {{CleanArchitecture.WebApi_HostAddress}}/api/Orders/Create
+Accept: application/json
+Content-Type: application/json
+{
+  "productId": "aa2cf446-eae0-4eaa-bd7c-bb49f8c25541",
+  "customerName": "Seval Saydam",
+  "price": 5
+}
+
+
+###
+
+POST {{CleanArchitecture.WebApi_HostAddress}}/api/Orders/GetAll?orderby=customerName
+Accept: application/json
+
+
+###
+
+
+POST {{CleanArchitecture.WebApi_HostAddress}}/api/Auth/Login
+Accept: application/json
+Content-Type: application/json
+{
+  "userName": "Taner Saydam"
+}
+
+###
+

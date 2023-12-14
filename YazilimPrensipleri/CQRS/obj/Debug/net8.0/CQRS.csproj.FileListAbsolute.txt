@@ -1,0 +1,13 @@
+C:\Tersan\YazilimPrensipleri\CQRS\bin\Debug\net8.0\CQRS.deps.json
+C:\Tersan\YazilimPrensipleri\CQRS\bin\Debug\net8.0\CQRS.dll
+C:\Tersan\YazilimPrensipleri\CQRS\bin\Debug\net8.0\CQRS.pdb
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\CQRS.csproj.AssemblyReference.cache
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\CQRS.AssemblyInfoInputs.cache
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\CQRS.AssemblyInfo.cs
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\CQRS.csproj.CoreCompileInputs.cache
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\CQRS.sourcelink.json
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\CQRS.dll
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\refint\CQRS.dll
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\CQRS.pdb
+C:\Tersan\YazilimPrensipleri\CQRS\obj\Debug\net8.0\ref\CQRS.dll

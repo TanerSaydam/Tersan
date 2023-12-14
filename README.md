@@ -1,4 +1,10 @@
 # Tersan Firması Advanced C# Eğitimi
+## 14.12.2023
+- Clean Code Prensipleri
+- TDD, Integration Test
+- Clean Architecture
+- JMeter => WebApi Kontrol Uygulaması
+
 ## 10.12.2023
 - Unit Test
 - Scrutor Kütüphanesi

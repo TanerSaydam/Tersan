@@ -1,20 +1,32 @@
 using CleanArchitecture.Application;
 using CleanArchitecture.Infrastructure;
-using CleanArchitecture.WebApi.Middleware;
+using Microsoft.AspNetCore.OData;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddCors(configure =>
-{
-    configure.AddDefaultPolicy(policy => policy.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin());
-});
+builder.Services.AddAuthentication().AddJwtBearer(
+    cfr => cfr.TokenValidationParameters = new()
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateIssuerSigningKey = true,
+        ValidateLifetime = true,
+        ValidIssuer = "Taner Saydam",
+        ValidAudience = "Herkes",
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("my secret key my secret key my secret key my secret key my secret key my secret key my secret key my secret key my secret key my secret key my secret key my secret key my secret key "))
+ });
 
-builder.Services.AddInfrastructure(builder.Configuration);
+builder.Services.AddAuthorization();
+
 builder.Services.AddApplication();
+builder.Services.AddInfrastructure();
 
-builder.Services.AddTransient<ExceptionMiddleware>();
-
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddOData(opt=>
+{
+    opt.EnableQueryFeatures();
+});
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -27,12 +39,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-app.UseCors();
-
-app.UseMiddlewareExtensions();
-
-app.UseAuthorization();
 
 app.MapControllers();
 

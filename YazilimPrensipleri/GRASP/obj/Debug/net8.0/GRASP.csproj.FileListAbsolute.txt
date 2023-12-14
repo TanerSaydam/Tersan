@@ -1,0 +1,12 @@
+C:\Tersan\YazilimPrensipleri\GRASP\bin\Debug\net8.0\GRASP.deps.json
+C:\Tersan\YazilimPrensipleri\GRASP\bin\Debug\net8.0\GRASP.dll
+C:\Tersan\YazilimPrensipleri\GRASP\bin\Debug\net8.0\GRASP.pdb
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\GRASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\GRASP.AssemblyInfoInputs.cache
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\GRASP.AssemblyInfo.cs
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\GRASP.csproj.CoreCompileInputs.cache
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\GRASP.sourcelink.json
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\GRASP.dll
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\refint\GRASP.dll
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\GRASP.pdb
+C:\Tersan\YazilimPrensipleri\GRASP\obj\Debug\net8.0\ref\GRASP.dll

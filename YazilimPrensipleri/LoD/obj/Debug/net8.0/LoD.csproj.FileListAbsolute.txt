@@ -1,0 +1,12 @@
+C:\Tersan\YazilimPrensipleri\LoD\bin\Debug\net8.0\LoD.deps.json
+C:\Tersan\YazilimPrensipleri\LoD\bin\Debug\net8.0\LoD.dll
+C:\Tersan\YazilimPrensipleri\LoD\bin\Debug\net8.0\LoD.pdb
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\LoD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\LoD.AssemblyInfoInputs.cache
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\LoD.AssemblyInfo.cs
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\LoD.csproj.CoreCompileInputs.cache
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\LoD.sourcelink.json
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\LoD.dll
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\refint\LoD.dll
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\LoD.pdb
+C:\Tersan\YazilimPrensipleri\LoD\obj\Debug\net8.0\ref\LoD.dll

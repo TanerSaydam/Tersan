@@ -1,0 +1,12 @@
+C:\Tersan\YazilimPrensipleri\SOLID\bin\Debug\net8.0\SOLID.deps.json
+C:\Tersan\YazilimPrensipleri\SOLID\bin\Debug\net8.0\SOLID.dll
+C:\Tersan\YazilimPrensipleri\SOLID\bin\Debug\net8.0\SOLID.pdb
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\SOLID.sourcelink.json
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\SOLID.dll
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\SOLID.pdb
+C:\Tersan\YazilimPrensipleri\SOLID\obj\Debug\net8.0\ref\SOLID.dll
